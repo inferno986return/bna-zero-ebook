@@ -38,8 +38,8 @@
 					{
 						"pageNumber": "1",
 						"indentation": "1",
-						"pageName": "Indicia",
-						"fileName": "indicia.xhtml"
+						"pageName": "How to Read",
+						"fileName": "howtoread.xhtml"
 					},
 					{
 						"pageNumber": "2",
@@ -50,62 +50,80 @@
 					{
 						"pageNumber": "3",
 						"indentation": "1",
+						"pageName": "Inner Title",
+						"fileName": "innertitle.xhtml"
+					},
+					{
+						"pageNumber": "4",
+						"indentation": "1",
+						"pageName": "Disclaimer",
+						"fileName": "disclaimer.xhtml"
+					},
+					{
+						"pageNumber": "5",
+						"indentation": "1",
 						"pageName": "Table of Contents",
 						"fileName": "toc.xhtml"
 					},
 					{
-						"pageNumber": "4",
+						"pageNumber": "6",
 						"indentation": "1",
 						"pageName": "Prologue",
 						"fileName": "prologue.xhtml"
 					},
 					{
-						"pageNumber": "5",
+						"pageNumber": "7",
 						"indentation": "1",
 						"pageName": "Chapter 1 – Scapegoat",
 						"fileName": "chapter-one.xhtml"
 					},
 					{
-						"pageNumber": "6",
+						"pageNumber": "8",
 						"indentation": "1",
 						"pageName": "Chapter 2 – The Beast Is Coming To Town",
 						"fileName": "chapter-two.xhtml"
 					},
 					{
-						"pageNumber": "7",
+						"pageNumber": "9",
 						"indentation": "1",
 						"pageName": "Chapter 3 – Stray Gangster",
 						"fileName": "chapter-three.xhtml"
 					},
 					{
-						"pageNumber": "8",
+						"pageNumber": "10",
 						"indentation": "1",
 						"pageName": "Chapter 4 – Brand New",
 						"fileName": "chapter-four.xhtml"
 					},
 					{
-						"pageNumber": "9",
+						"pageNumber": "11",
 						"indentation": "1",
 						"pageName": "Epilogue",
 						"fileName": "epilogue.xhtml"
 					},
 					{
-						"pageNumber": "10",
+						"pageNumber": "12",
 						"indentation": "1",
 						"pageName": "Biography",
 						"fileName": "biography.xhtml"
 					},
 					{
-						"pageNumber": "11",
+						"pageNumber": "13",
 						"indentation": "1",
 						"pageName": "About the Author",
 						"fileName": "abouttheauthor.xhtml"
 					},
 					{
-						"pageNumber": "12",
+						"pageNumber": "14",
 						"indentation": "1",
 						"pageName": "Brand New Animal",
 						"fileName": "bna.xhtml"
+					},
+					{
+						"pageNumber": "15",
+						"indentation": "1",
+						"pageName": "Copyright",
+						"fileName": "copyright.xhtml"
 					}
 				]
 }

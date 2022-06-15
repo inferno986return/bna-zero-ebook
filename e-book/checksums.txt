@@ -1,6 +1,6 @@
-Checksum values for BNAZero.epub on 2022-06-15 13:52:57UTC
+Checksum values for BNAZero.epub on 2022-06-15 16:15:43UTC
 =================================================================================
 
-MD5: 2a1ed6e86bc1b050e324ed69dc5418cb
-SHA-256: fe9ebc5cacf7c36c4a4f7234b0ea8d85d4e20f064f0f28d08f83e49adad787c9
-SHA-512: b548ed6d832fe2d64799f6e357052285179643de81c637f022cef3520544280b686fc70f965abcdebef28cfda5c586e5fc4f26442ff08bf924a6066fb2f84f2d
+MD5: 3bde8f4abebb1fccfc77590fa516c89b
+SHA-256: cbffe60c14a7190b51667bece0c0e42b7b32d9512388b007553ec58edaaa675c
+SHA-512: 108fe96efbd7eea77468f4230cedb7b511ed41bd39ed09d7b3a4af39b4179b30d451a3af5163a628417044ed29d9ea7d1ea46e94439acd6fab2493e3be048f4b

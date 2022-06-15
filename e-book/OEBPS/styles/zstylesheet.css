@@ -561,7 +561,7 @@ ol, ul {
 }
 
 li {
-	font-family: "Roboto Serif", serif;
+	font-family: "Metropolis Medium", sans-serif;
 	font-variant-numeric: tabular-nums; /*Force cap-height proportional numbers for fonts that use default text figures such as Literata or Georgia.*/
 	hyphens: none;
 	text-align: left;

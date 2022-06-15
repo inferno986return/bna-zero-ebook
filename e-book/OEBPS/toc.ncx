@@ -18,9 +18,9 @@
 	</navPoint>
 	<navPoint id="navpoint-2" playOrder="2">
 		<navLabel>
-			<text>Indicia</text>
+			<text>How to Read</text>
 		</navLabel>
-		<content src="indicia.xhtml" />
+		<content src="howtoread.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-3" playOrder="3">
 		<navLabel>
@@ -30,63 +30,81 @@
 	</navPoint>
 	<navPoint id="navpoint-4" playOrder="4">
 		<navLabel>
+			<text>Inner Title</text>
+		</navLabel>
+		<content src="innertitle.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-5" playOrder="5">
+		<navLabel>
+			<text>Disclaimer</text>
+		</navLabel>
+		<content src="disclaimer.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-6" playOrder="6">
+		<navLabel>
 			<text>Table of Contents</text>
 		</navLabel>
 		<content src="toc.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-5" playOrder="5">
+	<navPoint id="navpoint-7" playOrder="7">
 		<navLabel>
 			<text>Prologue</text>
 		</navLabel>
 		<content src="prologue.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-6" playOrder="6">
+	<navPoint id="navpoint-8" playOrder="8">
 		<navLabel>
 			<text>Chapter 1 – Scapegoat</text>
 		</navLabel>
 		<content src="chapter-one.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-7" playOrder="7">
+	<navPoint id="navpoint-9" playOrder="9">
 		<navLabel>
 			<text>Chapter 2 – The Beast Is Coming To Town</text>
 		</navLabel>
 		<content src="chapter-two.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-8" playOrder="8">
+	<navPoint id="navpoint-10" playOrder="10">
 		<navLabel>
 			<text>Chapter 3 – Stray Gangster</text>
 		</navLabel>
 		<content src="chapter-three.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-9" playOrder="9">
+	<navPoint id="navpoint-11" playOrder="11">
 		<navLabel>
 			<text>Chapter 4 – Brand New</text>
 		</navLabel>
 		<content src="chapter-four.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-10" playOrder="10">
+	<navPoint id="navpoint-12" playOrder="12">
 		<navLabel>
 			<text>Epilogue</text>
 		</navLabel>
 		<content src="epilogue.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-11" playOrder="11">
+	<navPoint id="navpoint-13" playOrder="13">
 		<navLabel>
 			<text>Biography</text>
 		</navLabel>
 		<content src="biography.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-12" playOrder="12">
+	<navPoint id="navpoint-14" playOrder="14">
 		<navLabel>
 			<text>About the Author</text>
 		</navLabel>
 		<content src="abouttheauthor.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-13" playOrder="13">
+	<navPoint id="navpoint-15" playOrder="15">
 		<navLabel>
 			<text>Brand New Animal</text>
 		</navLabel>
 		<content src="bna.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-16" playOrder="16">
+		<navLabel>
+			<text>Copyright</text>
+		</navLabel>
+		<content src="copyright.xhtml" />
 	</navPoint>
 </navMap>
 </ncx>
