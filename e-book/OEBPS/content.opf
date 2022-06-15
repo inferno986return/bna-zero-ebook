@@ -5,7 +5,7 @@
 		<dc:subject>fiction</dc:subject>
 		<dc:publisher>TRIGGER</dc:publisher>
 		<dc:identifier id="bookid">-</dc:identifier>
-		<dc:date>2022-06-14T13:13:57</dc:date>
+		<dc:date>2022-06-15T13:22:23</dc:date>
 		<dc:language>en</dc:language>
 		<dc:rights>worldwide</dc:rights>
 		<meta content="cover" name="cover"/>
@@ -14,11 +14,14 @@
 		<item href="styles/zstylesheet.css" id="css0" media-type="text/css"/>
 		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
 		<item href="images/bna-logo.png" id="image0" media-type="image/png"/>
-		<item href="images/bookcover.jpg" id="cover" media-type="image/jpeg"/>
-		<item href="images/chapter-four.png" id="image1" media-type="image/png"/>
-		<item href="images/chapter-one.png" id="image2" media-type="image/png"/>
-		<item href="images/chapter-three.png" id="image3" media-type="image/png"/>
-		<item href="images/chapter-two.png" id="image4" media-type="image/png"/>
+		<item href="images/bna-title.png" id="image1" media-type="image/png"/>
+		<item href="images/bookcover.png" id="image2" media-type="image/png"/>
+		<item href="images/chapter-four.png" id="image3" media-type="image/png"/>
+		<item href="images/chapter-one.png" id="image4" media-type="image/png"/>
+		<item href="images/chapter-three.png" id="image5" media-type="image/png"/>
+		<item href="images/chapter-two.png" id="image6" media-type="image/png"/>
+		<item href="images/epilogue.png" id="image7" media-type="image/png"/>
+		<item href="images/prologue.png" id="image8" media-type="image/png"/>
 		<item href="bookcover.xhtml" id="bookcover" media-type="application/xhtml+xml"/>
 		<item href="indicia.xhtml" id="indicia" media-type="application/xhtml+xml"/>
 		<item href="title.xhtml" id="title" media-type="application/xhtml+xml"/>
@@ -30,12 +33,11 @@
 		<item href="chapter-four.xhtml" id="chapter-four" media-type="application/xhtml+xml"/>
 		<item href="epilogue.xhtml" id="epilogue" media-type="application/xhtml+xml"/>
 		<item href="biography.xhtml" id="biography" media-type="application/xhtml+xml"/>
+		<item href="abouttheauthor.xhtml" id="abouttheauthor" media-type="application/xhtml+xml"/>
 		<item href="fonts/Metropolis-Bold.otf" id="font0" media-type="font/opentype"/>
 		<item href="fonts/Metropolis-BoldItalic.otf" id="font1" media-type="font/opentype"/>
 		<item href="fonts/Metropolis-Medium.otf" id="font2" media-type="font/opentype"/>
 		<item href="fonts/Metropolis-MediumItalic.otf" id="font3" media-type="font/opentype"/>
-		<item href="fonts/Metropolis-Regular.otf" id="font4" media-type="font/opentype"/>
-		<item href="fonts/Metropolis-RegularItalic.otf" id="font5" media-type="font/opentype"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="bookcover"/>
@@ -49,5 +51,6 @@
 		<itemref idref="chapter-four"/>
 		<itemref idref="epilogue"/>
 		<itemref idref="biography"/>
+		<itemref idref="abouttheauthor"/>
 	</spine>
 </package>

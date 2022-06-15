@@ -60,7 +60,7 @@
 	</navPoint>
 	<navPoint id="navpoint-9" playOrder="9">
 		<navLabel>
-			<text>Chapter 4 - Brand New</text>
+			<text>Chapter 4 – Brand New</text>
 		</navLabel>
 		<content src="chapter-four.xhtml" />
 	</navPoint>
@@ -75,6 +75,12 @@
 			<text>Biography</text>
 		</navLabel>
 		<content src="biography.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-12" playOrder="12">
+		<navLabel>
+			<text>About the Author</text>
+		</navLabel>
+		<content src="abouttheauthor.xhtml" />
 	</navPoint>
 </navMap>
 </ncx>

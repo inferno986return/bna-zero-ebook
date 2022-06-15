@@ -80,7 +80,7 @@
 					{
 						"pageNumber": "8",
 						"indentation": "1",
-						"pageName": "Chapter 4 - Brand New",
+						"pageName": "Chapter 4 – Brand New",
 						"fileName": "chapter-four.xhtml"
 					},
 					{
@@ -94,6 +94,12 @@
 						"indentation": "1",
 						"pageName": "Biography",
 						"fileName": "biography.xhtml"
+					},
+					{
+						"pageNumber": "11",
+						"indentation": "1",
+						"pageName": "About the Author",
+						"fileName": "abouttheauthor.xhtml"
 					}
 				]
 }

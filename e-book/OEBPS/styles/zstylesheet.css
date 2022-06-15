@@ -12,17 +12,6 @@ Use ems instead of percentages.
 /*Fonts*/
 
 @font-face {
-	font-family: "Metropolis Regular";
-	src: url("../fonts/Metropolis-Regular.otf");
-}
-
-@font-face {
-	font-family: "Metropolis Italic";
-	src: url("../fonts/Metropolis-RegularItalic.otf");
-	font-style: italic;
-}
-
-@font-face {
 	font-family: "Metropolis Medium";
 	src: url("../fonts/Metropolis-Medium.otf");
 }
@@ -40,7 +29,7 @@ Use ems instead of percentages.
 }
 
 @font-face {
-	font-family: "Metropolis Italic";
+	font-family: "Metropolis Bold Italic";
 	src: url("../fonts/Metropolis-BoldItalic.otf");
 	font-weight: bold;
 	font-style: italic;
@@ -53,8 +42,8 @@ p.kindle-center {
 }
 
 img.cover-image {
-	width: 700px;
-	height: 1000px;
+	width: 100%;
+	height: 100%;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
@@ -154,7 +143,7 @@ h1.heading {
 	font-weight: bold;
 	text-align: center;
 	color: #000;
-	margin-top: 0.5em;
+	margin-top: 1em;
 	margin-bottom: 1em;
 }
 
@@ -305,7 +294,7 @@ p {
 	text-align: justify;
 	hyphens: none;
 	font-variant-numeric: tabular-nums; /*Force cap-height proportional numbers for fonts that use default text figures such as Literata or Georgia.*/
-	line-height: 1.2;
+	line-height: 1.25;
 	margin: 0em;
 }
 
