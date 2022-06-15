@@ -418,6 +418,11 @@ i {
 	font-family: "Metropolis Medium Italic", sans-serif;
 }
 
+/*Anchor tags*/
+a {
+	color: #fc28a7;
+}
+
 /*Quotes*/
 /*Quotes are used to show a quote by a person or source. Recommended to write the quote in italics, though this isn't set in the CSS by default.*/
 
