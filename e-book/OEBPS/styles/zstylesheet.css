@@ -300,12 +300,13 @@ h1.split-page {
 
 p {
 	text-indent: 1em;
+	font-size: 1em;
 	font-family: "Metropolis Medium", serif;
 	text-align: justify;
-	font-size: 1em;
-	margin: 0em;
 	hyphens: none;
 	font-variant-numeric: tabular-nums; /*Force cap-height proportional numbers for fonts that use default text figures such as Literata or Georgia.*/
+	line-height: 1.2;
+	margin: 0em;
 }
 
 p.indicia, .indicia {
@@ -410,12 +411,12 @@ p.location2 {
 /*Emphasis*/
 b {
 	font-weight: bold;
-	font-family: "Roboto Serif Bold", sans-serif;
+	font-family: "Metropolis Medium Bold", sans-serif;
 }
 
 i {
 	font-style: italic;
-	font-family: "Roboto Serif Italic", sans-serif;
+	font-family: "Metropolis Medium Italic", sans-serif;
 }
 
 /*Quotes*/
