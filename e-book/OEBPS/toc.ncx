@@ -82,5 +82,11 @@
 		</navLabel>
 		<content src="abouttheauthor.xhtml" />
 	</navPoint>
+	<navPoint id="navpoint-13" playOrder="13">
+		<navLabel>
+			<text>Brand New Animal</text>
+		</navLabel>
+		<content src="bna.xhtml" />
+	</navPoint>
 </navMap>
 </ncx>

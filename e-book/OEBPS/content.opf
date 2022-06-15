@@ -5,7 +5,7 @@
 		<dc:subject>fiction</dc:subject>
 		<dc:publisher>TRIGGER</dc:publisher>
 		<dc:identifier id="bookid">-</dc:identifier>
-		<dc:date>2022-06-15T13:22:23</dc:date>
+		<dc:date>2022-06-15T13:52:56</dc:date>
 		<dc:language>en</dc:language>
 		<dc:rights>worldwide</dc:rights>
 		<meta content="cover" name="cover"/>
@@ -34,10 +34,12 @@
 		<item href="epilogue.xhtml" id="epilogue" media-type="application/xhtml+xml"/>
 		<item href="biography.xhtml" id="biography" media-type="application/xhtml+xml"/>
 		<item href="abouttheauthor.xhtml" id="abouttheauthor" media-type="application/xhtml+xml"/>
+		<item href="bna.xhtml" id="bna" media-type="application/xhtml+xml"/>
 		<item href="fonts/Metropolis-Bold.otf" id="font0" media-type="font/opentype"/>
 		<item href="fonts/Metropolis-BoldItalic.otf" id="font1" media-type="font/opentype"/>
 		<item href="fonts/Metropolis-Medium.otf" id="font2" media-type="font/opentype"/>
 		<item href="fonts/Metropolis-MediumItalic.otf" id="font3" media-type="font/opentype"/>
+		<item href="fonts/NotoSansJP-Medium.otf" id="font4" media-type="font/opentype"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="bookcover"/>
@@ -52,5 +54,6 @@
 		<itemref idref="epilogue"/>
 		<itemref idref="biography"/>
 		<itemref idref="abouttheauthor"/>
+		<itemref idref="bna"/>
 	</spine>
 </package>

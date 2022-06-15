@@ -35,6 +35,11 @@ Use ems instead of percentages.
 	font-style: italic;
 }
 
+@font-face {
+	font-family: "Noto Sans JP Medium";
+	src: url("../fonts/NotoSansJP-Medium.otf");
+}
+
 /*Cover*/
 
 p.kindle-center {
@@ -395,6 +400,11 @@ p.location2 {
 	text-align: center;
 	text-indent: 2em;
 	font-size: 0.95em;
+}
+
+p.noto-j {
+	text-indent: 0em;
+	font-family: "Noto Sans JP Medium", sans-serif;
 }
 
 /*Emphasis*/
