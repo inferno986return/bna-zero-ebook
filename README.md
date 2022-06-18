@@ -4,6 +4,9 @@ An ePub of the translation of *BNA Zero*. I've made some adjustments to the text
 
 Thanks very much to NightRunners for translating this light novel. I'd love to see TRIGGER adapt this into a movie!
 
+![Adobe Digital Editions preview](https://github.com/inferno986return/bna-zero-ebook/blob/main/Prologue_preview.jpg)
+
+
 ## Development
 
 ### Pull requests
