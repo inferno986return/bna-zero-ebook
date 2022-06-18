@@ -6,6 +6,7 @@ Thanks very much to NightRunners for translating this light novel. I'd love to s
 
 ![Adobe Digital Editions preview](https://github.com/inferno986return/bna-zero-ebook/blob/main/Prologue_preview.jpg)
 
+This is a preview of the BNAZero.epub in Adobe Digital Editions.
 
 ## Development
 
