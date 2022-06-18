@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-		<dc:title>BNA Zero</dc:title>
+		<dc:title>BNA Zero – The Animals Who Can’t Be Brand New</dc:title>
 		<dc:creator>Ise Nekise</dc:creator>
 		<dc:subject>fiction</dc:subject>
 		<dc:publisher>TRIGGER</dc:publisher>
 		<dc:identifier id="bookid">-</dc:identifier>
-		<dc:date>2022-06-16T17:52:36</dc:date>
+		<dc:date>2022-06-18T12:03:22</dc:date>
 		<dc:language>en</dc:language>
 		<dc:rights>worldwide</dc:rights>
 		<meta content="cover" name="cover"/>
@@ -38,7 +38,6 @@
 		<item href="epilogue.xhtml" id="epilogue" media-type="application/xhtml+xml"/>
 		<item href="biography.xhtml" id="biography" media-type="application/xhtml+xml"/>
 		<item href="abouttheauthor.xhtml" id="abouttheauthor" media-type="application/xhtml+xml"/>
-		<item href="bna.xhtml" id="bna" media-type="application/xhtml+xml"/>
 		<item href="copyright.xhtml" id="copyright" media-type="application/xhtml+xml"/>
 		<item href="fonts/Metropolis-Bold.otf" id="font0" media-type="font/opentype"/>
 		<item href="fonts/Metropolis-BoldItalic.otf" id="font1" media-type="font/opentype"/>
@@ -61,7 +60,6 @@
 		<itemref idref="epilogue"/>
 		<itemref idref="biography"/>
 		<itemref idref="abouttheauthor"/>
-		<itemref idref="bna"/>
 		<itemref idref="copyright"/>
 	</spine>
 </package>

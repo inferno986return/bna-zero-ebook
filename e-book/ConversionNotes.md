@@ -6,6 +6,7 @@
 * Resized large images to 600px wide to save space.
 * Indented paragraphs are more readable, then spaced out.
 * The ellipses are all over the place, shouldn't they be more consistent?
+* Replace multi-hyphen dinkus with the more presentable 3 asterisk for scene breaks, using "</p>\n\t\t<p>----", followed by "</p>\n\n\t\t<p class="scenebreak">*&#160;*&#160;*</p>\n\n\t\t<p>".
 * Used several regex to join paragraphs that have been severed in the conversion process:
     * "([a-z])</p>\n\t\t<p>([A-Z])", followed by "$1 $2"
     * ",</p>\n\t\t<p>([a-z])", followed by ", $1"

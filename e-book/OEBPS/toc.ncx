@@ -96,12 +96,6 @@
 	</navPoint>
 	<navPoint id="navpoint-15" playOrder="15">
 		<navLabel>
-			<text>Brand New Animal</text>
-		</navLabel>
-		<content src="bna.xhtml" />
-	</navPoint>
-	<navPoint id="navpoint-16" playOrder="16">
-		<navLabel>
 			<text>Copyright</text>
 		</navLabel>
 		<content src="copyright.xhtml" />
